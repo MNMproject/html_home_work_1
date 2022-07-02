@@ -1,0 +1,56 @@
+body {
+    background-image: url("https://kartinkin.net/uploads/posts/2020-07/1593716270_40-p-krasnie-foni-s-venzelyami-48.jpg");
+      font-family: "Bahnschrift Condensed", sans-serif;
+    }
+    h1 {
+      width: auto;
+      background: darkred;
+      color: gold;
+      height: 40px;
+      padding: 30px;
+      text-align: center;
+      line-height: 30px;
+      margin: 20px auto;
+      font-family: "Monotype Corsiva", sans-serif;
+      font-size: 40px;
+      }
+      .right-pic {
+       text-align: right;
+    } 
+    .images-pic {
+      width: 330px;
+      height: 238px;
+    }
+    h2 {
+      color: white;
+        text-align: center;
+        font-family: "Gabriola", sans-serif;
+        }
+    h4 {
+    text-align: center;
+      color: white;
+      
+    }
+    a {
+      color: gold;
+    }
+    ul {
+      font-size: 30px;
+      text-align: center;
+      font-family: "Gabriola", sans-serif;
+      color: khaki;
+    }
+    li {
+      font-size: 23px;
+      font-family: "Gabriola", sans-serif;
+      text-align: left;
+      color: khaki;
+    }
+    p {
+      font-family: "Bahnschrift Condensed", sans-serif;
+      font-size: 16px;
+      color: white;
+    }
+
+   
+    
